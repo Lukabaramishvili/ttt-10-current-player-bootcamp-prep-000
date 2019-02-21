@@ -2,8 +2,10 @@
 
 def turn_count(board)
   turn = 0
-  board.each |ele| 
-
+  board.each do |ele| 
+  
+  turn += 1
+  end
 end
 
 
