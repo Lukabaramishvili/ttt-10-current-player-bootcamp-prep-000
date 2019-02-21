@@ -3,9 +3,9 @@
 def turn_count(board)
   turn = 0
   board.each do |ele| 
-  if ele == "X" || ele == "O"
-  end
-  turn += 1
+    if ele == "X" || ele == "O"
+    turn += 1
+    end
   end
   return turn
 end
