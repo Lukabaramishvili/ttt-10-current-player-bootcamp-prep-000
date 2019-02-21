@@ -3,5 +3,5 @@
 
 
 def current_player(board)
-  if position
+  
 end
