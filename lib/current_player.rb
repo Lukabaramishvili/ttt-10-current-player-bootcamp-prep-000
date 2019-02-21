@@ -1,6 +1,9 @@
 
 
 def turn_count(board)
-  each.board do |b|
+  turn = 0
+  board.each |ele| 
+
+end
 
 
